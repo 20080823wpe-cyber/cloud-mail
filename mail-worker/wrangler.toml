@@ -51,7 +51,7 @@ domain = [
 	"nexo.nyc.mn",
 	"022335.xyz"
 ]				#邮件域名可可配置多个 示例: ["example1.com","example2.com"]
-admin = "root@skymail.ink"					#管理员的邮箱	示例: admin@example.com
+admin = "root@20050612.xyz"					#管理员的邮箱	示例: admin@example.com
 jwt_secret = "5e59074e-4843-463a-a942-272ac5b78eae"			#jwt令牌的密钥,随便填一串字符串
 
 [build]
